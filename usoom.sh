@@ -26,6 +26,7 @@ while true ; do
         done
         echo $MAX_PID $MAX_RSS $MEMAVAIL
         echo kill $MAX_PID
+        kill $MAX_PID
     fi
     sleep 1s
 done
