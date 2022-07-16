@@ -3,3 +3,6 @@ Yet another spin on UserSpace OOM killer
 This time using bash, ls, date, sleep, awk and kill.
 
 Very primitive! Much fun.
+
+TODO:
+* count free swap space as well
